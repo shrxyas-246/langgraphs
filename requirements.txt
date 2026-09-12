@@ -1,0 +1,19 @@
+# Core practice stack
+pydantic
+pydantic-settings
+email-validator
+
+langgraph
+langgraph-checkpoint-sqlite
+langchain
+langchain-core
+langchain-anthropic
+langchain-openai
+
+python-dotenv
+rich
+
+# Notebook / tooling
+jupyter
+ipykernel
+pytest
